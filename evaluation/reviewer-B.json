@@ -1,0 +1,98 @@
+{
+  "id": "husserl-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "暂离实用可经真理规范改变实践，不保证每项研究有用",
+      "source": "1935维也纳讲演I；核查状态见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "共同可复核及互相批评支持共同研究，非投票真理",
+      "source": "1935维也纳讲演I；核查状态见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "传统可抛弃或理性重塑，不将历史排除免检",
+      "source": "1935维也纳讲演I；核查状态见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/20Jh/Husserl/hus_kris.html",
+      "status": "direct_read",
+      "scope": "德文网络116–160，重点130–151、156–158直接核"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 7,
+    "reason": "盲猜虽命中却仅0.23，依据共同检查而非现象描述；短文没出现给予方式的展开或严格层级递进。",
+    "blind_guess": {
+      "code": "N18",
+      "guess": "胡塞尔（低置信猜测）",
+      "confidence": 0.23,
+      "alternatives": [
+        "皮尔士",
+        "康德"
+      ],
+      "formal_features": "以可共同复核的问题开头，随后暂缓人格判定，将抽象主张还原到一次具体决定。",
+      "content_clues": "他人重新检查、经验限制判断、根据允许与排除什么，或可联想到主体间检验。",
+      "limits": "没有现象呈现或意向性等进一步依据，猜测不稳。"
+    },
+    "limits": "没有现象呈现或意向性等进一步依据，猜测不稳。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 13,
+    "reason": "来源列版本、已读局部及未读范围；本轮对已知题核查仅限source_audit，不把继承研究记录当本轮通读。",
+    "primary_ratio_basis": "观念I、维也纳讲演、笛卡尔沉思3部对SEP1，3/4；第五沉思译者尚未核，转录不当校勘本。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "有执行动作、反例和停止条件；仍是局部解释框架，缺完整跨域验证，不按标题数量判成熟。",
+    "models": [
+      "对象与经验方式",
+      "悬置非否认",
+      "他者经验",
+      "历史形成非无效"
+    ],
+    "boundaries": [
+      "感受强非事实",
+      "不直观他者非不存在",
+      "类比统觉非显式推论",
+      "普遍理性不洗去排除"
+    ],
+    "tensions": [
+      "理论脱实用／改变实践",
+      "普遍真理／欧洲排除"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P21",
+    "blind_preference": "first",
+    "mapped_preference": "r3_better",
+    "reasoning": "两者都区分未注意与未经验，且允许保留习惯。first由遇到障碍触发反思，更好说明为什么此时检查预期；second从变化退到背景直接说此时应暂停，触发条件稍松。",
+    "expression": "first持续沿路、障碍、预期、改走法同一例子展开；second增加从无到有的概念澄清有价值，但略中断行动叙述。",
+    "post_unblinding_issues": [
+      "已核Q6完整题干：习惯遮蔽注意只属可能；没有仅因原盲读未见题干而把条件疑点定为错误，保留初判。"
+    ],
+    "limits": "差别较小；不核验理论归属，不能由一个连贯例子断定总体风格更真。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 82,
+  "grade": "B",
+  "original_report_sha256": "f0cabbefa265dccf12e88b5762fff063edfa86d64ef53bae52bbf16ec0ae13d8",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

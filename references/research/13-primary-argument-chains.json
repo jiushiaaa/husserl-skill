@@ -1,0 +1,83 @@
+{
+  "id": "husserl-perspective",
+  "date": "2026-10-13",
+  "role": "独立研究补证；非评分；不修改已交付research/proposals",
+  "readings": [
+    {
+      "work": "观念I大学节选复读",
+      "url": "https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm",
+      "actual_scope": "本轮重新连续读网页8–40；无新增完整原著章节，不报告超出§§27/31/49/77节选"
+    }
+  ],
+  "argument_chains": [
+    {
+      "topic": "观念I：态度、悬置与反思",
+      "url": "https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm",
+      "locator": "§§27、31、77节选",
+      "premises": "自然态度中人直接生活于有对象、有他人的世界；反思则转而考察经验及其给出。",
+      "reasoning": "暂停使用某一设定，不须把原确信改变为否定。经验被反思为现在的对象时，也被把握为刚才已发生且尚未被注意；反思改变呈现方式，不能据此说原经验此前不存在。",
+      "limits": "这不是取消事实，不是任意怀疑，更不是主张只要不看世界就不在。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "第五沉思：他者的进入方式",
+      "url": "https://cla.csulb.edu/departments/philosophy/wp-content/uploads/2026/05/Meeting__5__Husserl__Fifth__Meditation.pdf",
+      "locator": "既有H4 §§50–53，完整出处在canonical来源目录",
+      "premises": "他者经验若像自己的经验一样原初可占有，就不再保持作为他者的区别。",
+      "reasoning": "区分间接给予、身体配对及后续经验中的相合验证；理解保留他者自己的这里，不能由自己换位置就当拥有其经验。",
+      "limits": "类比统觉不是显式形式类比推理；行为异常不充分取消人格；仅四节不代表解决唯我论的整个论证。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "1935讲演：理论态度与共同实践",
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/20Jh/Husserl/hus_kris.html",
+      "locator": "I130–151",
+      "premises": "理论兴趣可暂时离开直接谋生或实用目的。",
+      "reasoning": "求共同有效的真理，使成果可以被他人重新理解、重作与批评，由此形成合作共同体；当真理成为规范时，影响法律、教育、价值生活。于是非直接实用的起点仍可改变实践。",
+      "limits": "真理不是多数投票；历史上形成共同体也不自动证明某个结论为真。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "1935讲演：传统的两条路径与理性批判",
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/20Jh/Husserl/hus_kris.html",
+      "locator": "I156–162；III既读全文",
+      "premises": "批判传统不是只能全盘抛弃传统；讲演区分抛弃与在哲学意义中重新塑形。",
+      "reasoning": "宗教被举作接纳、理性化转化的例子；结尾又把自然主义、客观主义形态和理性本身区分，批判前者并保留无限任务。",
+      "limits": "这不是为所有传统背书；I129非欧洲思想的排除性仍应显出。规范使命不作历史必然预测。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    }
+  ],
+  "programs": [
+    {
+      "name": "区分对象与给出方式",
+      "domain_1": "观念I§27知觉",
+      "domain_2": "第五沉思§50他者经验",
+      "status": "双对象领域原作有据，程序2/3的边界须保留",
+      "independence": "分析对象的证据进入方式，而不是判断采用何态度。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    },
+    {
+      "name": "暂停设定不等于否认",
+      "domain_1": "观念I§31设定；§77反思",
+      "domain_2": "讲演I理论兴趣暂离实用仅类比，不等于完整还原",
+      "status": "严格跨域仍不足",
+      "independence": "变更论证中设定的使用地位，不篡改对象事实。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    },
+    {
+      "name": "有效性、历史条件与共同任务分列",
+      "domain_1": "1935讲演I科学共同体",
+      "domain_2": "I145–158法律、教育、传统规范的转化",
+      "status": "同文跨对象有据；不是两个独立完成的历史证明",
+      "independence": "区分发生与有效性，不与直接/间接给予合并。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    }
+  ],
+  "remaining_reading": [
+    "第五沉思他者程序可保留专门子模块，不另拆一条来凑3个普遍模型。",
+    "悬置跨域需《观念I》§§56–62诸科学与形式逻辑的排除及第五沉思§44原初领域还原；本轮未读这些连续段。",
+    "理性有效性如要更强跨期证据，需《逻辑研究》导论反心理主义原作；已找到Freiburg存储入口，尚未完成PDF核读。"
+  ],
+  "verdict": "至少三条有限独立推理程序可定位；仍有单域条目，不宣称全部达到三重验证。",
+  "score": null
+}

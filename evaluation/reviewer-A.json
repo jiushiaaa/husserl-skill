@@ -1,0 +1,86 @@
+{
+  "id": "husserl-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "区分眼前实用与理论改变规范实践，教育例标为说明可能路径而无收益保证。",
+      "source": "维也纳讲演I L130–150德文直接核，https://www.tha.de/~harsch/germanica/Chronologie/20Jh/Husserl/hus_kris.html"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "共同再理解、再研究、互批评与超个人真理要求吻合，未把票数当真。",
+      "source": "同作L138–150直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "传统可弃或经哲学接纳重塑，宗教例有据；欧洲排除的反思明确是反过来审查而非洗白。",
+      "source": "同作L129及156–161直接核"
+    }
+  ],
+  "voice": {
+    "score": 6,
+    "blind_guess": "胡塞尔",
+    "reason": "极低置信猜中；可复查与经验限制几乎是通用认识论，未呈现意向分析或给予方式的独特组织。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 12,
+    "reason": "观念I译者明确，维也纳讲演德文可核；第五沉思译者版权页未核，危机正式正文覆盖不足。",
+    "primary_ratio_basis": "观念I、维也纳讲演、笛卡尔沉思3部一手内容，SEP1二手，3/4；同书后续节不另计。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "4程序有反例边界，对象给予与他者入口互有关联而仍有任务区分；还原全论证及历史共同活动仍局部启发。",
+    "models": [
+      "对象／给出方式",
+      "悬置／否定",
+      "他者不可占有",
+      "科学历史共同活动"
+    ],
+    "boundaries": [
+      "强烈感受不证事实",
+      "悬置不等于毁灭世界",
+      "类比统觉非简单推理",
+      "不以普遍理想洗欧洲排除"
+    ],
+    "tensions": [
+      "理论非即时实用／改变实践",
+      "普遍批判／欧洲排除"
+    ]
+  },
+  "total": 80,
+  "grade": "B",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/20Jh/Husserl/hus_kris.html",
+      "status": "direct_partial",
+      "read": "德文I L129–150、156–161，未读全篇；Q4第五沉思只核冻结提炼未重读"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P21",
+    "blind_preference": "first",
+    "mapped_result": "r3_better",
+    "post_unblinding_issues": [
+      "Q6原题为可能不留意；旧second首句因习惯遮蔽仍比题设肯定，但可作假定风险场景，保留条件性疑点而不定实质错误。r3首句明确经验未成为注意对象，对应冻结观念I§77区分。盲判不变。",
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "079692e51a6439f7980021c686eef36c6fe6c7df10f03151b43354ef5707faf9",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

@@ -1,0 +1,43 @@
+{
+  "plugin_modified": false,
+  "catalog_patch": "新增H5，同观念I不增作品；保留H4版本缺口",
+  "domain_evidence": {
+    "domain2": "§59形式数学",
+    "model": "暂停设定与否认区分",
+    "domain1": "§56自然/文化研究",
+    "status": "同书跨对象域，非跨作品成熟模型认证"
+  },
+  "canonical_modified": false,
+  "id": "husserl-perspective",
+  "frozen_modified": false,
+  "statistics": "No new 20-paragraph sample or voice-pass claim",
+  "role": "researcher_not_final_judge",
+  "date": "2026-10-13",
+  "note_file": "15-r2-primary-evidence.md",
+  "sources": [
+    {
+      "type": "primary_german_transcription_unverified",
+      "unread": "§57剩余、§§60–62",
+      "version": "1913原作的在线德文转录，未对印本；英语不采用",
+      "url": "https://forage.com/husserl/ideas/",
+      "read": "§56 L2162–2169；§59 L2234–2262；§55末L2133–2156；§57开头L2175–2191；§58 L2206–2230"
+    },
+    {
+      "type": "primary_german_transcription",
+      "version": "1935讲演",
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/20Jh/Husserl/hus_kris.html",
+      "read": "L25–50复读"
+    }
+  ],
+  "remaining": [
+    "原转录底本未核",
+    "第五沉思版权页",
+    "逻辑研究原章"
+  ],
+  "expression_patch": "同一对象的态度前后许可→完整强异议→有条件修订；不是谨慎副词",
+  "modes": {
+    "textgame_persona": false,
+    "persona": "explicit_only",
+    "default": "neutral_thought"
+  }
+}
